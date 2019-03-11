@@ -1,4 +1,6 @@
-# vue-trello-prac
+
+# vue-trello
+Vue.js를 이용한 Trello 페이지 구현
 
 > A Vue.js project
 
@@ -16,3 +18,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
